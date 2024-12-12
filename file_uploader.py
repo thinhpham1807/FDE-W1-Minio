@@ -12,7 +12,7 @@ def main():
     )
 
     # The file to upload
-    source_file = "./data/test-file.txt"
+    source_file = "./data/upload/test-file.txt"
 
     bucket = "warehouse-script"
     destination_file = "test-file.txt"
